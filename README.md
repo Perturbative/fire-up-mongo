@@ -18,7 +18,7 @@ A simple and easy way to fire up mongo.
 
 - To run MongoDB simply navigate to your MongoDB installation directory, double click the fireUpMongo.bat file to run the batch file, and after around 6 seconds MongoDB will be fired up and ready to be used.
 - You could also make a shortcut to the fireUpMongo.bat file and put it on your Desktop, Start Menu or Taskbar if you don't want to navigate to MongoDB's
-installation directory every time you need to start up MongoDB
+installation directory every time you need to start up MongoDB (An icon for a shortcut is also provided in this repo).
 
 ---
 
